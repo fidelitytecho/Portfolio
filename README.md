@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unsignedcoder&show_icons=true&theme=tokyonight&locale=en" alt="unsignedcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unsignedcoder&theme=dark" alt="unsignedcoder" /></p>
+
+<a href="https://app.daily.dev/hx878"><img src="https://api.daily.dev/devcards/v2/9VFny1d1nTh6c1PZGaCDP.png?r=yx5" width="356" alt="Innocent Zero's Dev Card"/></a>
