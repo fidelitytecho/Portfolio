@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Okpeta Daniel</h1>
+<h1 align="center">👋</h1>
 <h3 align="center">Ready player one has nothing on me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unsignedcoder&label=Profile%20views&color=16d1d4&style=plastic" alt="unsignedcoder" /> </p>
