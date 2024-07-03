@@ -18,9 +18,11 @@
 
 <a href="https://wakatime.com/@46ae4352-a792-40e6-95ad-62cb41870b15"><img src="https://wakatime.com/badge/user/46ae4352-a792-40e6-95ad-62cb41870b15.svg" alt="Total time coded since Aug 27 2023" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unsignedcoder&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="unsignedcoder" /></p>
+![](https://raw.githubusercontent.com/unsignedcoder/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/unsignedcoder/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unsignedcoder&show_icons=true&theme=tokyonight&locale=en" alt="unsignedcoder" /></p>
+![](https://raw.githubusercontent.com/unsignedcoder/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/unsignedcoder/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unsignedcoder&theme=dark" alt="unsignedcoder" /></p>
 
