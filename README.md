@@ -1,5 +1,5 @@
 
-- 👨‍💻 All of my projects are available at [https://github.com/UnsignedCoder/UnsignedCoder](https://github.com/UnsignedCoder/UnsignedCoder)
+- 👨‍💻 Some of my projects are available at [https://github.com/UnsignedCoder/UnsignedCoder](https://github.com/UnsignedCoder/UnsignedCoder)
 
 - 📫 How to reach me **dnlokpeta04@gmail.com**
 
